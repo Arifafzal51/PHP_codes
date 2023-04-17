@@ -1,0 +1,6 @@
+Design a website for hotel mangement
+
+owner of the hotel wants some of the  basic information abot the guest like  name ,email address ,aadhar card number , address contact  password and counferm password and be ensure about the email addresss must be the primary key 
+
+password must be atleast 8 charecters 
+

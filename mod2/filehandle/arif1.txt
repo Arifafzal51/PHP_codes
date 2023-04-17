@@ -1,0 +1,5 @@
+////echo fread($file_h, "30");
+//
+////var_dump($file_h);
+//fwrite($file_h, "3heyyy");
+//echo  "<br>".fread($file_h,5);
